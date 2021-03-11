@@ -13,6 +13,12 @@ Work under progress: Initial Results
 [![Prediction Video](gif/prediction.gif)](https://drive.google.com/file/d/1Q_p0dpCvVITOJwRyDwiuhWo-OCST8SLf/view?usp=sharing)
 
 
+Set up the Environment
+---
+Create a Virtual environment using conda
+- Create virtual environment: conda create -n frbloc python==3.6
+- source activate frbloc
+
 ## Citing this work
 ___
 
