@@ -15,9 +15,29 @@ Work under progress: Initial Results
 
 Set up the Environment
 ---
-Create a Virtual environment using conda
-- Create virtual environment: conda create -n frbloc python==3.6
-- source activate frbloc
+- Create a Virtual environment using conda
+
+         Create virtual environment: conda create -n frbloc python==3.6
+
+- Activate the environment
+
+        source activate frbloc or conda activate frbloc
+       
+- Install tensorflow and keras 
+
+        pip3 install tensorflow-gpu==1.14
+        pip3 install keras==2.1.0
+        
+- Install all required packages as follows
+
+        pip3 install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug Ipython
+        
+- If jupyter can’t find the tensorflow, on terminal type
+
+        python -m ipykernel install --user —name=frbloc,
+        
+- Then in Jupyter notebook choose frbloc kernel.
+        
 
 ## Citing this work
 ___
