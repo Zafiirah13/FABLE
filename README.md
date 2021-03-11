@@ -75,7 +75,7 @@ How to train FABLE model from scratch
 
          python SP_SingleClass.py train --dataset=/FABLE/samples/FRB/automated_mask_code/fetch_data --weights=coco
          
-Make preeiction with the trained model
+Make prediction with the trained model
 ---
 - Step by step training process and prediction
 
