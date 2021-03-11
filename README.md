@@ -68,7 +68,7 @@ How to train FABLE model from scratch
          
 - To train the model, we use SP_SingleClass.py. This code detctect only FRB/Single pulse from the background noise.
 
-         python SP_SingleClass.py train --dataset=/home/hosenie/Desktop/FABLE/samples/FRB/automated_mask_code/fetch_data --weights=coco
+         python SP_SingleClass.py train --dataset=/FABLE/samples/FRB/automated_mask_code/fetch_data --weights=coco
          
 Make preeiction with the trained model
 ---
@@ -90,11 +90,11 @@ ___
 
 If you use this work please cite:
 
-    @software{zafiirah_hosenie_2020,
+    @software{zafiirah_hosenie_2021,
       author       = {Zafiirah Hosenie},
       title        = {{Zafiirah13/FABLE/: Software release}},
-      month        = September,
-      year         = 2020,
+      month        = March,
+      year         = 2021,
       publisher    = {Github},
       version      = {0.1},
       url          = {https://github.com/Zafiirah13/FABLE/}
