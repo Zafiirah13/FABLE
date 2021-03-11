@@ -1,5 +1,5 @@
 """
-FRB Detection and Classification - FRB-DECLAS code written on top of Mask-RCNN
+FRB Detection and Classification - FABLE code written on top of Mask-RCNN
 
 Written by Zafiirah Hosenie (UoM)
 
