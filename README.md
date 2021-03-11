@@ -1,7 +1,7 @@
 # FABLE
 Fast rAdio Burst Localization &amp; dEtection using Mask-RCNN
 
-Automatic Annotation of Sngle Pulse or Fast Radio Burst Candidate
+Automatic Annotation of Single Pulse or Fast Radio Burst Candidate
 ---
 The steps and codes to perform an automatic annotation of single pulse is detailed below. An illustration of masking and annottaion is shown here.
 
