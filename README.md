@@ -38,6 +38,7 @@ Set up the Environment
 - Install all required packages as follows
 
         pip3 install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug Ipython
+        python setup.py install
         
 - If jupyter can’t find the tensorflow and jupyter is not working, on terminal type
 
