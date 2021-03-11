@@ -41,9 +41,9 @@ Set up the Environment
         
 - Then in Jupyter notebook choose frbloc kernel.
 
-How to run AUTOMATIC ANNOTATION FOR Fast Radio Burst Candidates
+How to run AUTOMATIC ANNOTATION for Fast Radio Burst Candidates
 ---
-- TO RUN MASKING
+- To run automatic masking 
 
         cd FABLE/samples/FRB/automated_mask_code/
         
