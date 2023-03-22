@@ -12,6 +12,10 @@ The steps and codes to perform an automatic annotation of single pulse is detail
 
 [![Masking Video](gif/masking.gif)](https://drive.google.com/file/d/11vHLk3XAHtV3lCx5VFZc9A4mro7KQFlp/view?usp=sharing)
 
+Dataset
+---
+The dataset can be downloaded at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7737333.svg)](https://doi.org/10.5281/zenodo.7737333)
+
 Prediction of test data using trained FABLE model
 ---
 
